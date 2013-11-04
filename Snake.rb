@@ -36,7 +36,7 @@ class Snake
 		end
 	end
 	
-	def play 
+	def play
 		while true do
 			build_mat
 			print_stats
